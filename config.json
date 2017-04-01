@@ -1,14 +1,21 @@
 {
+    "debugmode" : "1",
+    "prefixChar": "!",
+    
     "discord": {
         "email" : "",
         "password" : ""
     },
 
-    "setup": {
-        "prefixchar" : "!"
+    "setup":{
+        
     },
 
     "keywords": {
-        "Help":"commands"
+        "Commands":"commands",
+        "Help":"help",
+
+        "TimeCreated":"timeCreated"
+
     }
 }

@@ -6,3 +6,5 @@ Enjoy the cringe of poorly coded bot, but as you can see, things are ALL OVER TH
 This is my first time hnadling git as well, so I may be rusty.
 
 :ThinkSuicide:
+
+Testing my Webhook on my discord yay.

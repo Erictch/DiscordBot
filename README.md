@@ -7,4 +7,5 @@ This is my first time hnadling git as well, so I may be rusty.
 
 :ThinkSuicide:
 
-ooh
+
+asdf

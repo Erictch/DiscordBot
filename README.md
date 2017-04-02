@@ -1,11 +1,8 @@
-# DiscordBot
-Test bot for my Node JS adventure
-NOTE :
-Enjoy the cringe of poorly coded bot, but as you can see, things are ALL OVER THE PLACE and I do NOT KNOW how to code.
+# OharaMariBot
+Test bot for my Node JS/Discord JS advanture.
 
-This is my first time hnadling git as well, so I may be rusty.
+Yes, as you can tell, everything here is poorly written, and is barely functional.  There's some leftover functions and some functons are even on the wrong place. 1 of the javascript file is not even used. The tagging system only explores a world of exploits and terrible codes.
+
+This is also my first time learning how to git, so who pray best to my future and see what can I do better here.
 
 :ThinkSuicide:
-
-
-asdf

@@ -7,4 +7,4 @@ This is my first time hnadling git as well, so I may be rusty.
 
 :ThinkSuicide:
 
-Testing my Webhook on my discord yay.
+ooh
